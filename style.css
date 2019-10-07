@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.img-thumbnail{
+  width: 70px;
+}
+
+
+.top{
+  /* margin-top: 50px; */
+  background: tomato;
+}
+h1{
+  color: #333;
+}
+.text{
+  color: white;
+}
+
+.top-mount{
+  object-fit: cover;
+  height: 200px;
+  width: 100%;
+
+}
